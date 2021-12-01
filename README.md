@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **[LinkedIn clon]()**
 
-- 🌱 I’m currently learning **React.js and Redux**
+- 🌱 I’m currently learning **Node.js and Express**
 
 <!-- - 👨‍💻 Last Project **(https://linked-in-fe.vercel.app/)** -->
 - 📫 How to reach me **Asadbek010azamjonov@gmail.com**
