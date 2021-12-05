@@ -4,7 +4,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[LinkedIn clon]()**
+- 🔭 I’m currently working on **[]()**
 
 - 🌱 I’m currently learning **Node.js and Express**
 
