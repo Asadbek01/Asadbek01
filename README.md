@@ -4,7 +4,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[]()**
+- 🔭 I’m currently working on **Homework staffs**
 
 - 🌱 I’m currently learning **Node.js, Express and MongoDB**
 
