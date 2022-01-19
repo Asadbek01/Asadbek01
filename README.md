@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Homework staffs**
 
-- 🌱 I’m currently learning **Node.js, Express and MongoDB**
+- 🌱 I’m currently learning **Node.js, Express and MongoDB.**
 
 <!-- - 👨‍💻 Last Project **(https://linked-in-fe.vercel.app/)** -->
 - 📫 How to reach me **Asadbek010azamjonov@gmail.com**
