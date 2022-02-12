@@ -25,10 +25,11 @@
        <image src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"> 
        <image src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
        <image src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">   
-       <image src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">   
-       <image src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> 
+       <image src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"> 
+           <image src="https://img.shields.io/badge/Socket.io-f8edeb?style=for-the-badge&logo=socket.io&logoColor=white"> 
+       <image src="https://img.shields.io/badge/GitHub-6b705c?style=for-the-badge&logo=github&logoColor=white"> 
          <image src="https://img.shields.io/badge/Postman-fec89a?style=for-the-badge&logo=postman&logoColor=white"> 
-       <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/>
+       
 </p>
 <br/>
 <p align="center">
