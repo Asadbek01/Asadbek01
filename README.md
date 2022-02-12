@@ -1,6 +1,7 @@
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Asadbek Azamjonov</h1>
 <p align="center">
+  
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Asadbek Azamjonov</h1>
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img margin-left=""src="https://readme-typing-svg.herokuapp.com?color=%234728F7&lines=Full+Stack+Web+Developer;2%2B+years+of+coding+experince&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
 
