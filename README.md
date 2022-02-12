@@ -20,7 +20,7 @@
        <image src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
        <image src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
        <image src="https://img.shields.io/badge/Redux-ece4db?style=for-the-badge&logo=redux&logoColor=3f37c9">
-         <image src="https://img.shields.io/badge/Typescript-6b705c?style=for-the-badge&logo=typescripts&logoColor=3f37c9">
+         <image src="https://img.shields.io/badge/Typescript-03045e?style=for-the-badge&logo=typescript&logoColor=3f37c9">
        <image src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
        <image src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"> 
        <image src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
