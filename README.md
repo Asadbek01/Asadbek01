@@ -1,4 +1,5 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Asadbek Azamjonov</h1>
+<h1 align="center">
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Asadbek Azamjonov</h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img margin-left=""src="https://readme-typing-svg.herokuapp.com?color=%234728F7&lines=Full+Stack+Web+Developer;2%2B+years+of+coding+experince&font=Fira%20Code&center=true&width=440&height=45&color=%234728F7&vCenter=true&size=22"></a>
 </p>
@@ -31,15 +32,15 @@
        <image src="https://img.shields.io/badge/GitHub-001219?style=for-the-badge&logo=github&logoColor=white"> 
 </p>
 <br/>
+       ## 📊 My Github Stats
 <p align="center">
     <a href="https://github.com/Asadbek01/github-readme-streak-stats">
+       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Asadbek's streak" src="http://github-readme-streak-stats.herokuapp.com?user=asadbek01&theme=react&date_format=M%20j%5B%2C%20Y%5D"/>
     </a>
 </p>
-## 📊 My Github Stats
-  <br/>
-    <a href="https://github.com/Asadbek01/github-readme-stats"><img alt="Asadbek's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Asadbek01&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Asadbek01/Asadbek01/github-readme-stats"><img alt="Asadbek's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asadbek01&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-<br
-/>
-<br/>
+
+ 
+    
+<img align="left" width="47%" height="200px" src="https://awesome-github-stats.azurewebsites.net/user-stats/asadbek01?cardType=level&theme=react"/>
+
+<img align="right" width="47%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadbek01&layout=compact&cardType=level&theme=react"/>
