@@ -23,10 +23,10 @@
          <image src="https://img.shields.io/badge/Typescript-03045e?style=for-the-badge&logo=typescript&logoColor=3f37c9">
        <image src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
        <image src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"> 
-       <image src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+       <image src="https://img.shields.io/badge/MySQL-023e8a?style=for-the-badge&logo=mysql&logoColor=white">
        <image src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">   
        <image src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"> 
-           <image src="https://img.shields.io/badge/Socket.io-f8edeb?style=for-the-badge&logo=socket.io&logoColor=white"> 
+           <image src="https://img.shields.io/badge/Socket.io-001219?style=for-the-badge&logo=socket.io&logoColor=white"> 
        <image src="https://img.shields.io/badge/GitHub-6b705c?style=for-the-badge&logo=github&logoColor=white"> 
          <image src="https://img.shields.io/badge/Postman-fec89a?style=for-the-badge&logo=postman&logoColor=white"> 
        
