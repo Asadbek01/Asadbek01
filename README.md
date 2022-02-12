@@ -20,16 +20,15 @@
        <image src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
        <image src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
        <image src="https://img.shields.io/badge/Redux-ece4db?style=for-the-badge&logo=redux&logoColor=3f37c9">
-         <image src="https://img.shields.io/badge/Typescript-03045e?style=for-the-badge&logo=typescript&logoColor=3f37c9">
+       <image src="https://img.shields.io/badge/Typescript-03045e?style=for-the-badge&logo=typescript&logoColor=3f37c9">
        <image src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
        <image src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"> 
        <image src="https://img.shields.io/badge/MySQL-023e8a?style=for-the-badge&logo=mysql&logoColor=white">
        <image src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">   
        <image src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"> 
-           <image src="https://img.shields.io/badge/Socket.io-001219?style=for-the-badge&logo=socket.io&logoColor=white"> 
-       <image src="https://img.shields.io/badge/GitHub-6b705c?style=for-the-badge&logo=github&logoColor=white"> 
-         <image src="https://img.shields.io/badge/Postman-fec89a?style=for-the-badge&logo=postman&logoColor=white"> 
-       
+       <image src="https://img.shields.io/badge/Socket.io-001219?style=for-the-badge&logo=socket.io&logoColor=white"> 
+       <image src="https://img.shields.io/badge/Postman-f77f00?style=for-the-badge&logo=postman&logoColor=white"> 
+       <image src="https://img.shields.io/badge/GitHub-001219?style=for-the-badge&logo=github&logoColor=white"> 
 </p>
 <br/>
 <p align="center">
