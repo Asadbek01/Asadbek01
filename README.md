@@ -6,9 +6,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Homework staffs**
+- 🔭 I’m currently working on **Capstone project**
 
-- 🌱 I’m currently learning **Node.js, Express and MongoDB.**
+- 🌱 There will be a great achievment **soon**
 
 <!-- - 👨‍💻 Last Project **(https://linked-in-fe.vercel.app/)** -->
 - 📫 How to reach me **Asadbek010azamjonov@gmail.com**
