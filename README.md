@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Capstone project**
 
-- 🌱 There will be a great achievment **soon**
+- 👨‍💻  There will be a great achievment **soon**
 
 <!-- - 👨‍💻 Last Project **(https://linked-in-fe.vercel.app/)** -->
 - 📫 How to reach me **Asadbek010azamjonov@gmail.com**
