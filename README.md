@@ -1,7 +1,7 @@
 <h1 align="center">
   Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Asadbek Azamjonov</h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img margin-left=""src="https://readme-typing-svg.herokuapp.com?color=%234728F7&lines=Full+Stack+Web+Developer;2%2B+years+of+coding+experince&font=Fira%20Code&center=true&width=440&height=45&color=%234728F7&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img margin-left=""src="https://readme-typing-svg.herokuapp.com?color=%234728F7&lines=Full+Stack+Web+Developer;2%2B+years+of+coding+experience&font=Fira%20Code&center=true&width=440&height=45&color=%234728F7&vCenter=true&size=22"></a>
 </p>
 
 ## 🙋‍♂️ About Me
